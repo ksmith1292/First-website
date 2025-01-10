@@ -1,0 +1,25 @@
+body{
+  background-color: lightcoral;
+}
+h1{
+  color: darkmagenta;
+  border-color: aqua;
+  border-style: dotted;
+  border-width: thick;
+  text-align: center
+  ;
+}
+p{
+  text-align: center
+}
+h2{
+  text-align: center;
+  color: rgb(61, 165, 42);
+  background-color: darkslategrey;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
